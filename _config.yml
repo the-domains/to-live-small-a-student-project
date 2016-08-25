@@ -1,3 +1,4 @@
+layout_spectrum: 0.02446368453092873
 typography_spectrum: 0.19506494258530438
 color:
   brandStrength: 0.8141470761038363
@@ -10,7 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.02446368453092873
 name: 'To Live Small, a Student Project'
-title: How to live big in a small space
-description: Tiny houses for normal people
