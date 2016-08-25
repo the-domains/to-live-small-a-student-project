@@ -1,4 +1,3 @@
-layout_spectrum: 0.02446368453092873
 typography_spectrum: 0.19506494258530438
 color:
   brandStrength: 0.8141470761038363
@@ -6,9 +5,11 @@ color:
   saturation: 0.2560122315771878
   rhythmicContrast: 0.13395698135718703
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.02446368453092873
 name: 'To Live Small, a Student Project'
+title: How to live big in a small space
