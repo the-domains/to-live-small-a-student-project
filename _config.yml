@@ -1,14 +1,28 @@
-layout_spectrum: 0.02446368453092873
-typography_spectrum: 0.19506494258530438
+title: How to live big in a small space
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.8141470761038363
-  lightness: 0.8660591831430793
   saturation: 0.2560122315771878
-  rhythmicContrast: 0.13395698135718703
+  brandStrength: 0.7639123
+  lightness: 0.8660591831430793
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  rhythmicContrast: 0.133956981357187
+typography_spectrum: 0.1112985
+description: Tiny houses for normal people
+layout_spectrum: 1
 name: 'To Live Small, a Student Project'
